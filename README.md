@@ -17,7 +17,7 @@
   applications.
 
 ## Requirements
-To use this app, you need an Android device with a built-in magnetometer (compass sensor). The app supports a minimum Android OS version of [insert minimum supported version].
+To use this app, you need an Android device with a built-in magnetometer (compass sensor). The app supports a minimum Android OS version of 33.0.0
 
 ## Installation
 1. Clone the repository to your local machine or download the ZIP file.
