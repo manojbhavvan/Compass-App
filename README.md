@@ -27,4 +27,5 @@ To use this app, you need an Android device with a built-in magnetometer (compas
 5. Grant the necessary permissions required by the app to access sensors and location services, if prompted.
 6. You're all set! Enjoy using the Compass App on your Android device.
 
-![WhatsApp Image 2023-05-23 at 7 07 31 PM](https://github.com/manojbhavvan/Compass-App/assets/90094168/b16d645a-ef8c-4bfa-a462-8e63e6658e86)
+
+![Compass_preview](https://github.com/manojbhavvan/Compass-App/assets/90094168/43f3c4e1-abeb-41b5-93c8-2225816ce022)
